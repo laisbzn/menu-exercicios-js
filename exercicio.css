@@ -1,0 +1,14 @@
+body{
+
+    background: rgb(124, 196, 155);
+}
+
+input{
+    width: 100%;
+}
+
+#resultado{
+    
+    padding: 10px;
+    margin: 10px;
+}
